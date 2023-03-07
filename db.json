@@ -22,6 +22,7 @@
       "cpf": "11234567891",
       "nome": "Paciente Dois",
       "nome_mae": "Mãe Paciente Dois",
+      "data_nascimento": "02/02/1992",
       "cns": "32132131",
       "cep": "12312122",
       "logradouro": "Rua Dois",
